@@ -36,15 +36,15 @@
 
     <property>
         <name>fs.s3a.access.key</name>
-        <value>bb177027da8c474d95a1e29969214de8</value>
+        <value>xxxxxx</value>
     </property>
     <property>
         <name>fs.s3a.secret.key</name>
-        <value>f4a24c3cc67f4c7ab9c5d877b95e3ff7</value>
+        <value>xxxxx</value>
     </property>
     <property>
         <name>fs.s3a.endpoint</name>
-        <value>https://s3.us-east-va.io.cloud.ovh.us</value>
+        <value>https://xxxxxxxxxx</value>
     </property>
     <property>
         <name>fs.s3a.path.style.access</name>
